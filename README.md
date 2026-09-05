@@ -1,3 +1,5 @@
+<img src="page_light.png" alt="Alt text" width="720">
+<img src="page_dark.png" alt="Alt text" width="720">
 # React Project 09 — Context Task Board + Drag & Drop
 
 This is the upgraded **Context Task Board** project.
